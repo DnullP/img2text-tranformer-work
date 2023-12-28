@@ -1,2 +1,21 @@
 data/*
 
+checkpoint_4.pth
+result.json
+result2.json
+temp.txt
+temp2.txt
+test.py
+__pycache__/cider.cpython-311.pyc
+__pycache__/evaluate.cpython-311.pyc
+__pycache__/meteor.cpython-311.pyc
+__pycache__/rouge.cpython-311.pyc
+model/transformer_re0.pth
+model/transformer_re1.pth
+model/transformer_re2.pth
+model/transformer_re3.pth
+model/transformer_thd0.pth
+model/transformer_thd1.pth
+model/transformer_thd2.pth
+model/transformer_thd3.pth
+
